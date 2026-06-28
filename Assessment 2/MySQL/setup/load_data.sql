@@ -1,16 +1,16 @@
 USE sales_assignment;
 
 INSERT INTO customers (id, customer_name, city, region, signup_date) VALUES
-(1, 'Alice Johnson', 'Chicago', 'North', '2023-01-10'),
-(2, 'Bob Smith', 'Dallas', 'South', '2023-02-15'),
-(3, 'Catherine Lee', 'Austin', 'West', '2023-03-20'),
-(4, 'David Chen', 'Boston', 'East', '2023-04-05'),
-(5, 'Eva Patel', 'Denver', 'North', '2023-05-12'),
-(6, 'Frank Moore', 'Phoenix', 'South', '2023-06-01'),
-(7, 'Grace Kim', 'Seattle', 'West', '2023-07-14'),
-(8, 'Henry Rivera', 'Miami', 'East', '2023-08-22'),
-(9, 'Ivy Brooks', 'Atlanta', 'North', '2023-09-18'),
-(10, 'Jack Turner', 'San Diego', 'South', '2023-10-09');
+(1, 'Aarti Sharma', 'Chicago', 'North', '2023-01-10'),
+(2, 'Rohit Kumar', 'Dallas', 'South', '2023-02-15'),
+(3, 'Sneha Gupta', 'Austin', 'West', '2023-03-20'),
+(4, 'Vikram Patel', 'Boston', 'East', '2023-04-05'),
+(5, 'Anjali Patel', 'Denver', 'North', '2023-05-12'),
+(6, 'Amit Singh', 'Phoenix', 'South', '2023-06-01'),
+(7, 'Priya Reddy', 'Seattle', 'West', '2023-07-14'),
+(8, 'Siddharth Rao', 'Miami', 'East', '2023-08-22'),
+(9, 'Kavya Nair', 'Atlanta', 'North', '2023-09-18'),
+(10, 'Arjun Verma', 'San Diego', 'South', '2023-10-09');
 
 INSERT INTO products (id, product_name, category, unit_price) VALUES
 (1, 'Laptop', 'Electronics', 999.99),
