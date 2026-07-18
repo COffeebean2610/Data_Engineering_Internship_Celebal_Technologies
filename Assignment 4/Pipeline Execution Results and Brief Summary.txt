@@ -1,0 +1,23 @@
+Pipeline Execution Results
+
+Pipeline Name: EmployeePipeline
+
+Execution Status: ✅ Succeeded
+
+Source: Azure Blob Storage (source-data/employees.csv)
+
+Activities Executed:
+
+Get Metadata
+Copy Data
+
+Destination: Azure Blob Storage (output-data/employees_copy.csv)
+
+Output:
+
+Metadata validation completed successfully.
+CSV file was copied successfully from the source container to the destination container.
+The pipeline execution completed without any errors.
+Brief Summary
+
+A complete data pipeline was successfully implemented using Azure Data Factory (ADF) and Azure Blob Storage. The pipeline first used the Get Metadata activity to validate the source CSV file and retrieve its metadata. It then used the Copy Data activity to transfer the file from the source-data container to the output-data container within the Storage Account. The pipeline executed successfully, confirming proper integration between Azure Storage and Azure Data Factory. This implementation demonstrates the fundamental concepts of Azure cloud services, data ingestion, metadata validation, and automated data movement using ADF.
