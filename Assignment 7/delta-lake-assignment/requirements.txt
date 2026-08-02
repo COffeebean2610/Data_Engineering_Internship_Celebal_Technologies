@@ -1,0 +1,3 @@
+# Apache Spark runtime and Delta Lake Python API used by verify_delta_merge.py
+pyspark==3.5.0
+delta-spark==3.2.0
