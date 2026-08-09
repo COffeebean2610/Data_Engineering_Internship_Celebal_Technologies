@@ -1,0 +1,54 @@
+==========================================
+E-COMMERCE ANALYTICS TEST REPORT
+==========================================
+Total Tests: 42
+Passed: 42
+Failed: 0
+Warnings: 0
+Execution Time: 0.18 sec
+Project Status: PASSED
+
+Test Details:
+tests.test_data_validation.DataValidationTests.test_customer_ids_are_unique | Passed
+tests.test_data_validation.DataValidationTests.test_discounts_are_in_valid_range | Passed
+tests.test_data_validation.DataValidationTests.test_order_dates_are_parseable | Passed
+tests.test_data_validation.DataValidationTests.test_order_item_ids_are_unique | Passed
+tests.test_data_validation.DataValidationTests.test_product_ids_are_unique | Passed
+tests.test_data_validation.DataValidationTests.test_product_prices_are_non_negative | Passed
+tests.test_data_validation.DataValidationTests.test_quantities_are_positive | Passed
+tests.test_data_validation.DataValidationTests.test_required_source_files_are_non_empty | Passed
+tests.test_data_validation.DataValidationTests.test_stock_quantities_are_non_negative | Passed
+tests.test_data_validation.DataValidationTests.test_valid_customer_emails_match_pattern | Passed
+tests.test_database.DatabaseTests.test_connection_is_available | Passed
+tests.test_database.DatabaseTests.test_database_file_exists | Passed
+tests.test_database.DatabaseTests.test_expected_tables_exist | Passed
+tests.test_database.DatabaseTests.test_foreign_key_definitions_exist | Passed
+tests.test_database.DatabaseTests.test_integrity_check_is_ok | Passed
+tests.test_database.DatabaseTests.test_no_duplicate_primary_keys | Passed
+tests.test_database.DatabaseTests.test_primary_key_columns_exist | Passed
+tests.test_database.DatabaseTests.test_record_counts_are_positive | Passed
+tests.test_database.DatabaseTests.test_referential_integrity_is_clean | Passed
+tests.test_database.DatabaseTests.test_required_indexes_exist | Passed
+tests.test_database.DatabaseTests.test_required_not_null_values_are_present | Passed
+tests.test_edge_cases.EdgeCaseTests.test_empty_csv_file_is_detectable | Passed
+tests.test_edge_cases.EdgeCaseTests.test_empty_database_has_no_project_tables | Passed
+tests.test_edge_cases.EdgeCaseTests.test_future_date_filter_returns_empty_report | Passed
+tests.test_edge_cases.EdgeCaseTests.test_invalid_date_format_is_rejected | Passed
+tests.test_edge_cases.EdgeCaseTests.test_invalid_date_range_returns_exit_code_two | Passed
+tests.test_edge_cases.EdgeCaseTests.test_invalid_discount_constraint | Passed
+tests.test_edge_cases.EdgeCaseTests.test_invalid_report_name_is_rejected | Passed
+tests.test_edge_cases.EdgeCaseTests.test_invalid_sql_query_is_rejected | Passed
+tests.test_edge_cases.EdgeCaseTests.test_missing_database_has_friendly_error | Passed
+tests.test_edge_cases.EdgeCaseTests.test_negative_quantity_constraint | Passed
+tests.test_edge_cases.EdgeCaseTests.test_null_customer_ids_are_allowed_by_schema | Passed
+tests.test_edge_cases.EdgeCaseTests.test_unknown_customer_id_returns_no_row | Passed
+tests.test_edge_cases.EdgeCaseTests.test_unknown_order_id_returns_no_row | Passed
+tests.test_edge_cases.EdgeCaseTests.test_unknown_product_id_returns_no_row | Passed
+tests.test_edge_cases.EdgeCaseTests.test_zero_quantity_constraint | Passed
+tests.test_reports.ReportTests.test_csv_and_text_export | Passed
+tests.test_reports.ReportTests.test_date_filtered_monthly_sales_executes | Passed
+tests.test_reports.ReportTests.test_empty_date_range_returns_a_valid_frame | Passed
+tests.test_reports.ReportTests.test_every_registered_report_executes | Passed
+tests.test_reports.ReportTests.test_expected_reports_are_registered | Passed
+tests.test_reports.ReportTests.test_revenue_report_has_kpis | Passed
+==========================================

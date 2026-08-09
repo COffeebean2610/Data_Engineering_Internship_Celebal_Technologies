@@ -1,0 +1,9 @@
+Generated data files:
+- D:\Samradni Dahiphale\Projects\Celebal task\Data_Engineering_Internship_Celebal_Technologies\Assignment 8\ecommerce-analytics-system\data\raw\customers.csv
+- D:\Samradni Dahiphale\Projects\Celebal task\Data_Engineering_Internship_Celebal_Technologies\Assignment 8\ecommerce-analytics-system\data\raw\products.csv
+- D:\Samradni Dahiphale\Projects\Celebal task\Data_Engineering_Internship_Celebal_Technologies\Assignment 8\ecommerce-analytics-system\data\raw\orders.csv
+- D:\Samradni Dahiphale\Projects\Celebal task\Data_Engineering_Internship_Celebal_Technologies\Assignment 8\ecommerce-analytics-system\data\raw\order_items.csv
+
+Number of rows generated: 6300
+Number of intentional errors inserted: 432
+Execution time: 0.09 seconds

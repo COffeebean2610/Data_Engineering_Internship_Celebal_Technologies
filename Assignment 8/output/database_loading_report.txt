@@ -1,0 +1,41 @@
+====================================================
+DATABASE LOADING REPORT
+====================================================
+
+Database created successfully: D:\Samradni Dahiphale\Projects\Celebal task\Data_Engineering_Internship_Celebal_Technologies\Assignment 8\ecommerce-analytics-system\database\ecommerce.db
+Tables created: 4
+Constraints applied: primary keys, foreign keys, NOT NULL, UNIQUE, CHECK, date triggers
+Indexes created: 7
+
+Rows inserted:
+  customers: 488
+  products: 300
+  orders: 1383
+  order_items: 3731
+Failed rows: 22
+Rejected rows: 376
+
+Validation results:
+  total_customers: 488
+  total_products: 300
+  total_orders: 1383
+  total_order_items: 3731
+  null_customer_names: 0
+  null_order_dates: 0
+  duplicate_customer_ids: 0
+  duplicate_order_ids: 0
+  duplicate_emails: 0
+  broken_order_customers: 0
+  broken_item_orders: 0
+  broken_item_products: 0
+  invalid_prices: 0
+  negative_or_zero_quantities: 0
+  invalid_discounts: 0
+  future_order_dates: 0
+  foreign_key_errors: 0
+  revenue: 14165463.11
+
+Execution time: 0.07 sec
+Database size: 819,200 bytes
+Database ready for analytics: Yes
+====================================================

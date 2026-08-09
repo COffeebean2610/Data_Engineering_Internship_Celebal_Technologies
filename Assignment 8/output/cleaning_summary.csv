@@ -1,0 +1,2 @@
+customers_loaded,customers_cleaned,duplicate_customers_removed,invalid_emails_corrected,missing_phone_fixed,products_loaded,products_cleaned,duplicate_products_removed,negative_stock_fixed,price_validation_fixes,orders_loaded,orders_cleaned,wrong_date_formats_fixed,future_dates_corrected,null_customer_ids_preserved,order_items_loaded,order_items_cleaned,negative_quantities_fixed,discount_errors_fixed,missing_product_ids,missing_order_ids,referential_integrity_issues
+500,500,0,10,4,300,300,0,4,0,1500,1500,0,173,75,4000,4000,115,27,40,32,147

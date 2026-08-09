@@ -1,0 +1,19 @@
+region_code,product_id,product_name,revenue
+CENTRAL,PROD-00024,Summit Bedding Vel,38902.11
+CENTRAL,PROD-00245,Zenith Technology Optio,33816.06
+CENTRAL,PROD-00225,Nexa Kitchen Illum,31148.15
+EAST,PROD-00005,Orbit Wellness Fuga,37380.73
+EAST,PROD-00201,River Storage Porro,31958.69
+EAST,PROD-00176,Mira Wearables Quos,27959.08
+NCR,PROD-00031,Nova Bedding Suscipit,32750.77
+NCR,PROD-00208,Summit Academic Placeat,32747.06
+NCR,PROD-00109,Nexa Indoor Accusantium,27429.26
+NORTH,PROD-00041,River Fitness Voluptates,38008.08
+NORTH,PROD-00130,Urban Educational Harum,30013.41
+NORTH,PROD-00091,Mira Living Room Eligendi,28556.05
+SOUTH,PROD-00062,Nova Storage Quas,32948.73
+SOUTH,PROD-00261,Bright Fitness Fuga,27041.67
+SOUTH,PROD-00270,Urban Wearables Ab,26034.66
+WEST,PROD-00211,Urban Office Nulla,45339.29
+WEST,PROD-00048,Nova Plush Dolorem,36566.25
+WEST,PROD-00043,Urban Accessories Aperiam,34914.15

@@ -1,0 +1,11 @@
+customer_id,email
+CUST-00001,invalid-email
+CUST-00051,invalid-email
+CUST-00121,invalid-email-0@
+CUST-00151,invalid-email
+CUST-00241,invalid-email-0@
+CUST-00251,invalid-email
+CUST-00351,invalid-email
+CUST-00361,invalid-email-0@
+CUST-00451,invalid-email
+CUST-00481,invalid-email-0@

@@ -1,0 +1,32 @@
+========================================
+DATA CLEANING REPORT
+========================================
+
+Customers Loaded: 500
+Customers Cleaned: 500
+Duplicate Customers Removed: 0
+Invalid Emails Corrected: 10
+Missing Phone Numbers Fixed: 4
+
+Products Loaded: 300
+Products Cleaned: 300
+Duplicate Products Removed: 0
+Negative Stock Fixed: 4
+Price Validation Fixes: 0
+
+Orders Loaded: 1500
+Orders Cleaned: 1500
+Wrong Date Formats Fixed: 0
+Future Dates Corrected: 173
+Null Customer IDs Preserved: 75
+
+Order Items Loaded: 4000
+Order Items Cleaned: 4000
+Negative Quantities Fixed: 115
+Discount Errors Fixed: 27
+Missing Product IDs: 40
+Missing Order IDs: 32
+
+Referential Integrity Issues: 147
+
+========================================
